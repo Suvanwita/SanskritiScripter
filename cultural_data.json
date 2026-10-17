@@ -61,6 +61,422 @@
     "Sharing brings happiness",
     "Knowledge is the greatest treasure"
   ],
+  "cultural_context": {
+    "West Bengal": {
+      "Durga Puja": {
+        "summary": "Durga Puja is West Bengal's grandest festival, celebrating the victory of Goddess Durga over the demon Mahishasura. It lasts five days and transforms neighbourhoods with elaborate temporary shrines called pandals.",
+        "elements": [
+          "dhak — large barrel drums played by hereditary drummers called dhakis",
+          "pandal — elaborately decorated temporary shrines housing the Durga idol",
+          "anjali — ritual offering of flowers to the goddess at dawn",
+          "dhunuchi naach — a dance performed holding clay pots of burning coconut husk and incense",
+          "sindoor khela — married women smear each other with vermilion on Vijaya Dashami",
+          "marigold garlands and hibiscus flowers used in worship",
+          "traditional Bengali clothing: red-bordered white saree (lal paar) for women, dhoti-kurta for men",
+          "community feasts and exchange of sweets like mishti doi and sandesh",
+          "Mahalaya — the dawn of the festival, announced by Birendra Krishna Bhadra's radio broadcast",
+          "Sandhi Puja — sacred moment when Ashtami meets Navami, 108 lamps are lit",
+          "Kumari Puja — worship of a young girl as a living embodiment of the goddess",
+          "evening processions with brass bands and lit torches",
+          "neighbourhood rivalry in pandal decoration and artistic themes",
+          "immersion (visarjan) of the idol in the river on Dashami"
+        ],
+        "atmosphere": "joyful, communal, spiritually charged, visually spectacular",
+        "typical_characters": ["dhaki drummer", "pandal decorator", "anjali devotee", "young child dressed in new clothes", "neighbourhood committee organiser"],
+        "story_hooks": [
+          "A child loses something precious in the pandal crowds and must be brave to find it",
+          "A young dhaki learns the rhythm of the dhak from a grandfather",
+          "Two rival neighbourhood children unite to save a bird trapped in pandal decorations",
+          "A little girl participates in Kumari Puja for the first time"
+        ]
+      },
+      "Diwali": {
+        "summary": "Diwali in Bengal is celebrated as Kali Puja — the worship of Goddess Kali, the fierce protector — on the same night as the Festival of Lights.",
+        "elements": [
+          "Kali Puja — worship of Goddess Kali with midnight prayers",
+          "diyas (clay oil lamps) lit on rooftops, doorways and courtyards",
+          "firecrackers and sparklers",
+          "sweets: kheer, payesh, naru",
+          "visiting relatives and neighbours",
+          "sky lanterns released after puja"
+        ],
+        "atmosphere": "bright, festive, slightly mysterious",
+        "typical_characters": ["priest performing midnight puja", "grandmother telling stories", "children running with sparklers"],
+        "story_hooks": [
+          "A child is afraid of the dark and learns courage through the light of a single diya",
+          "A grandmother tells the story of Kali and a child reenacts it"
+        ]
+      }
+    },
+    "Kerala": {
+      "Onam": {
+        "summary": "Onam is Kerala's harvest festival celebrated over ten days (Atham to Thiruvonam). It commemorates the mythical golden age of King Mahabali, who returns to visit his people once a year.",
+        "elements": [
+          "pookalam — intricate floral carpet made from fresh flowers laid in the front yard each day",
+          "Onam Sadhya — grand vegetarian feast of 26+ dishes served on a banana leaf, including avial, olan, payasam and pickle",
+          "vallam kali — traditional snake boat races on the Pampa River, rowed by up to 100 men singing Vanchipattu (boat songs)",
+          "Thiruvathirakali — graceful circular dance performed by women",
+          "Pulikali — performers painted as tigers and hunters dance through the streets",
+          "new clothes called Onakkodi traditionally in off-white and gold (kasavu)",
+          "swings decorated with flowers hung from trees (Oonjal)",
+          "kummattikali — colourful folk masked dancers",
+          "storytelling about King Mahabali's just and prosperous reign",
+          "traditional games like tug-of-war, archery, and wrestling"
+        ],
+        "atmosphere": "verdant, abundant, nostalgic, deeply communal",
+        "typical_characters": ["grandmother designing pookalam", "boat race rower", "child arranging flowers", "Pulikali tiger dancer"],
+        "story_hooks": [
+          "A child tries to make the most beautiful pookalam for King Mahabali's visit",
+          "A young boy joins a snake boat race team for the first time",
+          "A girl learns the Thiruvathirakali dance from her aunt"
+        ]
+      },
+      "Vishu": {
+        "summary": "Vishu marks the Malayalam New Year and is celebrated by arranging a Vishukkani — an auspicious sight of gold, fruits, flowers and scripture viewed at dawn.",
+        "elements": [
+          "Vishukkani — auspicious arrangement of golden cucumber, kani konna flowers, rice, gold coins and a mirror",
+          "Vishukkaineettam — elders give coins to children as new year blessings",
+          "new clothes (Onakkodi)",
+          "Sadya feast",
+          "fireworks at dawn"
+        ],
+        "atmosphere": "hopeful, golden, family-oriented",
+        "typical_characters": ["grandmother preparing the Vishukkani before dawn", "child woken with eyes closed to view the auspicious sight"],
+        "story_hooks": [
+          "A child wakes before dawn to secretly peek at the Vishukkani and learns why waiting brings greater joy"
+        ]
+      }
+    },
+    "Punjab": {
+      "Lohri": {
+        "summary": "Lohri marks the end of winter and the harvest season, celebrated on the eve of Makar Sankranti. Bonfires are lit in community spaces and families gather around the fire to sing and dance.",
+        "elements": [
+          "bonfire (alav) — central to the celebration, represents the sun and warmth",
+          "offering sesame seeds, jaggery, popcorn and peanuts to the fire",
+          "Bhangra and Giddha — energetic folk dances for men and women respectively",
+          "folk songs: Sundar Mundriye and other traditional Lohri songs",
+          "sarson da saag and makki di roti — the traditional winter meal",
+          "rewri (sesame brittle), gajak, peanuts and popcorn distributed as prasad",
+          "special significance for newborn babies and newlyweds — first Lohri is celebrated grandly",
+          "elders sharing stories around the fire",
+          "children going door-to-door singing Lohri songs and collecting sweets"
+        ],
+        "atmosphere": "warm, communal, lively with music and dance, celebratory",
+        "typical_characters": ["dhol player", "Bhangra dancer", "grandmother making sarson da saag", "children collecting rewri"],
+        "story_hooks": [
+          "A shy child overcomes shyness to join the Bhangra circle around the bonfire",
+          "Children go door-to-door collecting sweets and encounter a grumpy neighbour who is lonely",
+          "A family lights Lohri for a new baby and the child feels the warmth of community love"
+        ]
+      },
+      "Baisakhi": {
+        "summary": "Baisakhi celebrates the harvest of the Rabi crop in April and also marks the founding of the Khalsa by Guru Gobind Singh in 1699.",
+        "elements": [
+          "Nagar Kirtan — religious procession with music and kirtan",
+          "Bhangra and Giddha performances in wheat fields",
+          "visiting the Gurudwara and listening to kirtan",
+          "langar — communal meal served at the Gurudwara",
+          "colourful traditional attire",
+          "fairs and market stalls",
+          "joyful celebration of a good harvest"
+        ],
+        "atmosphere": "golden, spiritual, joyful, communal",
+        "typical_characters": ["farmer celebrating the harvest", "child in traditional phulkari dress", "Gurudwara sevak serving langar"],
+        "story_hooks": [
+          "A child helps with the harvest for the first time and learns the value of honest labour"
+        ]
+      }
+    },
+    "Assam": {
+      "Bihu": {
+        "summary": "Bihu is Assam's most beloved festival, celebrated three times a year. Rongali Bihu (spring) is the most festive — it marks the Assamese New Year and the beginning of the planting season.",
+        "elements": [
+          "Bihu naach (Bihu dance) — energetic, joyful folk dance performed in open fields, men and women dance separately and together",
+          "Bihu geet — Bihu songs with themes of love, nature and harvest, sung to the dhol and pepa",
+          "dhol — large two-sided drum, the heartbeat of Bihu celebrations",
+          "pepa — traditional wind instrument made from buffalo horn",
+          "gogona — jaw harp made of bamboo",
+          "gamosa — woven cotton towel with red border, gifted as a mark of respect and love",
+          "traditional pitha (rice cakes): til pitha, ghila pitha, sunga pitha",
+          "laru — coconut and sesame sweet balls",
+          "traditional Assamese attire: mekhela chador for women, dhoti and gamocha for men",
+          "Husori — groups of young men visit homes singing Bihu songs and receiving blessings and refreshments",
+          "decorating the home with banana leaves and bamboo",
+          "new agricultural tools are worshipped on the first day (Goru Bihu — cattle are also bathed and adorned)"
+        ],
+        "atmosphere": "joyful, vibrant, rooted in nature and community, full of music",
+        "typical_characters": ["young Bihu dancer", "dhol player", "grandmother making pitha", "Husori singer"],
+        "story_hooks": [
+          "A young girl secretly practises the Bihu dance to surprise her grandmother",
+          "A child learns to play the pepa from an old musician",
+          "A Husori group helps a lonely elderly person feel part of the celebration"
+        ]
+      }
+    },
+    "Tamil Nadu": {
+      "Pongal": {
+        "summary": "Pongal is a four-day harvest festival in Tamil Nadu that thanks the Sun God (Surya), nature and cattle for ensuring a good harvest. The word 'Pongal' means 'to boil over' — symbolising abundance.",
+        "elements": [
+          "Kolam — intricate geometric patterns drawn with rice flour at the threshold each morning",
+          "cooking Pongal dish — rice and lentils boiled with jaggery and milk in a clay pot until it overflows (symbolic of prosperity)",
+          "the shout 'Pongalo Pongal!' as the pot boils over",
+          "sugarcane — eaten and used as decoration",
+          "Mattu Pongal — day 3, cattle are bathed, adorned with bells and garlands and worshipped",
+          "Jallikattu — bull-taming sport traditional to Tamil Nadu",
+          "Kanu Pongal — day 4, women pray for the well-being of their brothers",
+          "traditional Tamil attire: silk half-saree (pavadai) for girls, veshti for men",
+          "bonfire of old items on the first day (Bhogi) symbolising renewal",
+          "exchanging Pongal dishes with neighbours",
+          "folk songs, Karagattam (pot-balancing dance) and Oyilattam performances"
+        ],
+        "atmosphere": "golden, harvest-rich, thankful, community-focused",
+        "typical_characters": ["grandmother drawing kolam at dawn", "child carrying sugarcane", "farmer adorning cattle", "women preparing the Pongal pot"],
+        "story_hooks": [
+          "A child tries to draw a perfect kolam but keeps making mistakes, and learns that effort matters more than perfection",
+          "A young girl helps prepare Pongal and accidentally makes the pot boil over — and it becomes the luckiest batch",
+          "A child forms a bond with the family's decorated bull on Mattu Pongal"
+        ]
+      }
+    },
+    "Maharashtra": {
+      "Ganesh Chaturthi": {
+        "summary": "Ganesh Chaturthi is a 10-day festival honouring Lord Ganesha, the elephant-headed remover of obstacles. It was popularised as a community festival by Bal Gangadhar Tilak.",
+        "elements": [
+          "clay Ganesha idol installed at home or in community pandals",
+          "modak — steamed sweet dumplings, Lord Ganesha's favourite food, prepared by women",
+          "aarti — devotional songs sung twice daily: Sukhakarta Dukhaharta",
+          "dhol-tasha procession — drummer groups in orange attire perform through streets",
+          "visarjan — immersion of the idol in the sea or river on the final day with chanting 'Ganpati Bappa Morya'",
+          "Ganesh Chaturthi feast: puran poli, shrikhand, vada, rice dishes",
+          "neighbourhood Ganesh mandals compete in pandal decoration",
+          "eco-friendly clay idols encouraged",
+          "children participating in preparing offerings",
+          "storytelling of Ganesha's legends: how he got the elephant head, the race around the world"
+        ],
+        "atmosphere": "devotional, festive, loud with music, community-spirited",
+        "typical_characters": ["child helping mother make modak", "dhol-tasha player", "pandal artist", "priest performing aarti"],
+        "story_hooks": [
+          "A child secretly uses the last modak as an offering and Ganesha's wisdom solves a family problem",
+          "Two friends who are in an argument work together to carry Ganesha during visarjan and reconcile",
+          "A girl makes an eco-friendly Ganesha idol from clay and it turns out to be the most beautiful one"
+        ]
+      },
+      "Diwali": {
+        "summary": "Diwali in Maharashtra celebrates Lakshmi Puja on the main night, welcoming the goddess of wealth and prosperity, along with Naraka Chaturdashi (victory of Krishna over demon Narakasura).",
+        "elements": [
+          "Lakshmi Puja — worship of the goddess of wealth with lamps and flowers",
+          "aakash kandil — decorative paper lanterns hung outside homes",
+          "rangoli — colourful floor patterns made with powder, flowers or coloured rice",
+          "faral — special Diwali snacks: chakli, chivda, karanji, besan ladoo",
+          "abhyanga snan — ritual oil bath before sunrise on Naraka Chaturdashi",
+          "firecrackers and sparklers",
+          "new clothes and visiting relatives",
+          "children receiving Diwali gifts and sweets"
+        ],
+        "atmosphere": "warm, prosperous, aromatic with sweets and incense",
+        "typical_characters": ["mother making faral snacks", "child lighting aakash kandil", "grandmother drawing rangoli"],
+        "story_hooks": [
+          "A child races to light the first diya and learns patience when a small diya lights the whole room"
+        ]
+      }
+    },
+    "Rajasthan": {
+      "Holi": {
+        "summary": "Holi in Rajasthan is especially spectacular, celebrated with great enthusiasm in cities like Jaipur, Jodhpur, and Jaisalmer, featuring elephant processions in some areas.",
+        "elements": [
+          "Holika Dahan bonfire the night before — burning of the demoness Holika",
+          "colours (gulal) — dry powdered colours and water-based colours thrown joyfully",
+          "pichkari (water guns) for water play",
+          "thandai — a chilled milk drink flavoured with almonds, spices and saffron",
+          "gujiya — sweet dumpling filled with khoya and dry fruits, the signature Holi sweet",
+          "folk singing and dancing in the streets",
+          "legend of Prahlad and his devotion to Lord Vishnu",
+          "Lathmar Holi in Barsana and Nandgaon — women playfully beat men with sticks"
+        ],
+        "atmosphere": "riotously colourful, playful, exuberant, community-uniting",
+        "typical_characters": ["child covered in colour running through streets", "grandmother offering gujiya", "man playing dholak"],
+        "story_hooks": [
+          "Two feuding neighbours are accidentally covered in the same colour and laugh together for the first time"
+        ]
+      }
+    },
+    "Gujarat": {
+      "Navratri": {
+        "summary": "Navratri (nine nights) is Gujarat's most celebrated festival, featuring nine nights of Garba and Dandiya-Raas dance in honour of Goddess Amba/Durga.",
+        "elements": [
+          "Garba — graceful circular dance performed around a lit lamp or image of the goddess",
+          "Dandiya-Raas — energetic stick dance, men and women pair up and strike decorated sticks rhythmically",
+          "colourful traditional attire: chaniya choli (skirt-blouse) for women, kediyu-dhoti for men",
+          "large community Garba grounds with live orchestra",
+          "the nine forms of Durga worshipped on each night",
+          "clay garbo — decorative pot with holes through which lamps glow",
+          "fasting and feasting alternate across the nine days",
+          "children learning Garba steps from elders",
+          "competitions for best Garba performance"
+        ],
+        "atmosphere": "spectacular, energetic, rhythmic, deeply colourful",
+        "typical_characters": ["young girl learning Garba for the first time", "grandmother teaching traditional Garba steps", "musician playing shehnai"],
+        "story_hooks": [
+          "A clumsy child practises Garba all night and surprises everyone with her graceful performance"
+        ]
+      }
+    },
+    "Bihar": {
+      "Chhath Puja": {
+        "summary": "Chhath Puja is a rigorous four-day festival dedicated to the Sun God (Surya) and his sister Chhathi Maiya. Devotees fast for 36 hours and offer arghya (water offering) at dawn and dusk by standing in rivers.",
+        "elements": [
+          "arghya — ritual water offering to the setting and rising sun while standing in a river or pond",
+          "thekua — a traditional sweet made from wheat, jaggery and ghee, shaped in a mould and fried",
+          "bamboo baskets called soop filled with offerings: sugarcane, fruits, coconut and thekua",
+          "new earthen pots, bamboo baskets and natural offerings — no artificial materials",
+          "women in yellow or red sarees wading into rivers",
+          "singing Chhath songs throughout the four days",
+          "the miraculous devotion of the fasting family member (often the mother)",
+          "children carrying earthen lamps (diyas) in procession to the riverbank",
+          "community gathering at the ghats before sunrise"
+        ],
+        "atmosphere": "deeply devotional, serene, communal, spiritually powerful",
+        "typical_characters": ["fasting mother standing in the river", "child carrying a bamboo basket of offerings", "grandmother singing Chhath geet"],
+        "story_hooks": [
+          "A child wakes before dawn to accompany their mother to the river and understands the meaning of devotion",
+          "A boy helps prepare the thekua for the first time and realises his family's love through the ritual"
+        ]
+      }
+    },
+    "Odisha": {
+      "Diwali": {
+        "summary": "In Odisha, Diwali is celebrated as Kartik Purnima or Dipa Amavasya, with lamps lit for ancestors and for Lord Vishnu in his form as Damodara.",
+        "elements": [
+          "diyas lit for ancestors and placed in windows",
+          "Boita Bandana — launching of miniature boats made of banana stem to honour ancient Odia seafarers",
+          "conch shells blown at dawn",
+          "festive Odia sweets: khaja, chhena poda",
+          "women singing devotional songs"
+        ],
+        "atmosphere": "reflective, ancestral, gentle and luminous",
+        "typical_characters": ["child launching a tiny banana-stem boat on the river", "grandmother placing lamps for ancestors"],
+        "story_hooks": [
+          "A child's paper boat carries a tiny lamp downriver and guides a lost bird back to its nest"
+        ]
+      }
+    },
+    "Uttar Pradesh": {
+      "Diwali": {
+        "summary": "Diwali in Uttar Pradesh is celebrated grandly, especially in Ayodhya — the birthplace of Lord Rama — where the entire city is lit with hundreds of thousands of diyas along the Saryu River.",
+        "elements": [
+          "Deepotsav in Ayodhya — lakhs of diyas lit on the ghats of the Saryu River",
+          "Ram Leela performances telling the story of Rama's return from Lanka",
+          "Lakshmi Puja at midnight",
+          "firecrackers, sparklers and sky lanterns",
+          "mathura ke peda, gulab jamun and other sweets exchanged",
+          "children dressed as Rama, Sita and Lakshmana in plays",
+          "family prayers and lighting diyas in every room"
+        ],
+        "atmosphere": "epic, luminous, story-rich, deeply Hindu in tradition",
+        "typical_characters": ["child playing Lord Rama in Ram Leela", "grandmother lighting the puja lamp", "diya-maker (kumhar) finishing the last batch"],
+        "story_hooks": [
+          "A child playing Rama in the local Ram Leela forgets his lines but is helped by an unexpected friend"
+        ]
+      },
+      "Holi": {
+        "summary": "In Uttar Pradesh, especially Mathura, Vrindavan and Barsana (birthplace of Radha), Holi is celebrated with mythological devotion — tied to the love of Radha and Krishna.",
+        "elements": [
+          "Lathmar Holi — women of Barsana chase men of Nandgaon with sticks",
+          "phoolon ki Holi — playing Holi with flower petals at Banke Bihari temple",
+          "spring colours symbolising Radha and Krishna's love",
+          "thandai, gujiya and puranpoli served",
+          "folk singing of Holi ke geet",
+          "temple celebrations with cloud of gulal (colour powder)"
+        ],
+        "atmosphere": "divine, playful, devotional and explosively colourful",
+        "typical_characters": ["child drenched in colour at the temple", "singer singing Holi Hai!", "grandmother offering thandai"],
+        "story_hooks": [
+          "A shy child is pulled into the Holi celebration and discovers the joy of letting go"
+        ]
+      }
+    },
+    "Himachal Pradesh": {
+      "Diwali": {
+        "summary": "In Himachal Pradesh, Diwali is celebrated differently — particularly in remote villages, communities celebrate Buri Diwali (Old Diwali) with bonfires and folk traditions several days after the main festival.",
+        "elements": [
+          "bonfires on hilltops",
+          "traditional Himachali folk songs (Nati dance)",
+          "pine torches lit and carried through villages",
+          "offerings to local mountain deities (devtas)",
+          "homemade mithai made from local walnuts and honey",
+          "community storytelling around the fire"
+        ],
+        "atmosphere": "mountain-mystical, intimate, rooted in nature",
+        "typical_characters": ["child carrying a pine torch through snow-dusted paths", "elder telling stories of mountain spirits"],
+        "story_hooks": [
+          "A child carries a flame through a mountain storm to light the village bonfire"
+        ]
+      }
+    },
+    "Goa": {
+      "Christmas": {
+        "summary": "Christmas in Goa is a grand celebration blending Catholic tradition with vibrant Goan culture — star-shaped lanterns (stars of Bethlehem) light every home, churches fill with midnight mass worshippers, and Goan sweets fill every kitchen.",
+        "elements": [
+          "Star of Bethlehem (Krishnacha Tara) — large lit star lanterns hung outside every home",
+          "Midnight Mass (Missa do Galo) at historic Portuguese churches like Se Cathedral",
+          "Goan Christmas sweets: bebinca (layered coconut pudding), neureos (sweet fried pastries), dodol (coconut-jaggery toffee), kulkuls (curled fried dough)",
+          "carol singing (carollers going door-to-door)",
+          "nativity scene (presepio) set up at home",
+          "Christmas tree decorated with local flowers",
+          "firecrackers at midnight",
+          "family feasts with vindaloo, sorpotel and rice"
+        ],
+        "atmosphere": "warm, fragrant, community-spirited, twinkly with lights and stars",
+        "typical_characters": ["grandmother making bebinca", "child hanging stars in the window", "carollers singing at midnight", "priest at midnight mass"],
+        "story_hooks": [
+          "A child's star lantern is blown away in the sea breeze and a kind stranger helps her make a new one",
+          "A child sneaks into the kitchen to taste the bebinca before Christmas morning and learns to wait"
+        ]
+      },
+      "Eid": {
+        "summary": "Eid in Goa's Muslim communities is celebrated with communal prayers at the mosque, feasting and the sharing of traditional Goan Muslim sweets with neighbours.",
+        "elements": [
+          "Eid prayer at the mosque at dawn",
+          "new clothes (Eid attire)",
+          "Eidi — elders give money or gifts to children",
+          "biryani, haleem and sheer khurma (vermicelli pudding with dry fruits) prepared",
+          "visiting neighbours and friends of all communities",
+          "decorating homes with lights and flowers"
+        ],
+        "atmosphere": "joyful, generous, community-focused",
+        "story_hooks": [
+          "A child shares their Eid sweets with a friend of another faith and they discover shared joy"
+        ]
+      }
+    },
+    "Manipur": {
+      "Bihu": {
+        "summary": "While Bihu is primarily an Assamese festival, communities in Manipur with Assamese roots also celebrate it.",
+        "elements": [
+          "Bihu dance and songs",
+          "pepa and dhol music",
+          "pitha rice cakes"
+        ],
+        "atmosphere": "joyful and musical",
+        "story_hooks": [
+          "A child from Manipur learns Bihu dance to connect with their Assamese heritage"
+        ]
+      },
+      "Diwali": {
+        "summary": "Diwali in Manipur coincides with the Mera Houchongba festival — a water-based festival of boat processions.",
+        "elements": [
+          "decorated boats on Loktak Lake",
+          "lamps floated on water",
+          "community gathering at the lake",
+          "traditional Meitei songs and dance"
+        ],
+        "atmosphere": "serene, mystical, water-lit",
+        "story_hooks": [
+          "A child floats a tiny diya on Loktak Lake and watches it drift to illuminate the darkness"
+        ]
+      }
+    }
+  },
   "festival_info": {
     "Durga Puja": {
       "region": "West Bengal",
@@ -97,6 +513,60 @@
       "description": "A four-day harvest festival in Tamil Nadu thanking the Sun God for agricultural prosperity, featuring kolam art and pongal dish.",
       "emoji": "🌞",
       "colors": ["#FFD700", "#228B22", "#FF6347", "#8B4513"]
+    },
+    "Ganesh Chaturthi": {
+      "region": "Maharashtra",
+      "description": "A ten-day festival honouring Lord Ganesha, the remover of obstacles, with clay idols, modak sweets and grand community celebrations.",
+      "emoji": "🐘",
+      "colors": ["#FF6B00", "#FFD700", "#FF4500", "#8B4513"]
+    },
+    "Lohri": {
+      "region": "Punjab",
+      "description": "A harvest bonfire festival marking the end of winter in Punjab, celebrated with bhangra, folk songs, rewri and peanuts.",
+      "emoji": "🔥",
+      "colors": ["#FF4500", "#FF8C00", "#FFD700", "#8B0000"]
+    },
+    "Navratri": {
+      "region": "Gujarat",
+      "description": "Nine nights of Garba and Dandiya-Raas dance in Gujarat honouring the nine forms of Goddess Durga.",
+      "emoji": "💃",
+      "colors": ["#FF69B4", "#9400D3", "#FFD700", "#FF6347"]
+    },
+    "Chhath Puja": {
+      "region": "Bihar",
+      "description": "A four-day festival of rigorous devotion to the Sun God, featuring river offerings at dawn and dusk.",
+      "emoji": "☀️",
+      "colors": ["#FF8C00", "#FFD700", "#FF6347", "#8B4513"]
+    },
+    "Baisakhi": {
+      "region": "Punjab",
+      "description": "Harvest festival and Sikh New Year celebrated with Bhangra, Nagar Kirtan and Langar in gurudwaras.",
+      "emoji": "🌾",
+      "colors": ["#FFD700", "#FF8C00", "#228B22", "#8B4513"]
+    },
+    "Ugadi": {
+      "region": "Andhra Pradesh / Telangana / Karnataka",
+      "description": "Telugu and Kannada New Year marked by Ugadi Pachadi — a dish combining six tastes symbolising life's experiences.",
+      "emoji": "🌺",
+      "colors": ["#228B22", "#FFD700", "#FF6347", "#FF8C00"]
+    },
+    "Vishu": {
+      "region": "Kerala",
+      "description": "Kerala's New Year celebrated with the auspicious Vishukkani sight viewed at dawn and Vishukkaineettam gifts.",
+      "emoji": "🌼",
+      "colors": ["#FFD700", "#228B22", "#FF8C00", "#FF6347"]
+    },
+    "Eid": {
+      "region": "Pan-India",
+      "description": "Eid ul-Fitr, the festival marking the end of Ramadan fasting, celebrated with prayers, feasting, new clothes and Eidi gifts.",
+      "emoji": "🌙",
+      "colors": ["#228B22", "#FFD700", "#FFFFFF", "#C0C0C0"]
+    },
+    "Christmas": {
+      "region": "Goa / Kerala / Pan-India",
+      "description": "Christmas in India is particularly vibrant in Goa, with star lanterns, midnight mass, carol singing and traditional Goan sweets.",
+      "emoji": "⭐",
+      "colors": ["#228B22", "#FF0000", "#FFD700", "#FFFFFF"]
     }
   },
   "mock_story": {
@@ -107,38 +577,35 @@
     "language": "Bengali",
     "moral": "Courage and faith can light up even the darkest night",
     "cover_description": "A young girl holding a golden diya in front of a glowing Durga Puja pandal",
+    "characters": ["Ananya", "Rohan", "The Flame Spirit", "Ananya's mother"],
     "chapters": [
       {
-        "number": 1,
-        "title_en": "The Night Before the Puja",
-        "title_regional": "পুজোর আগের রাত",
-        "text_en": "Ananya pressed her nose against the cool window glass, watching the neighborhood fill with golden light. Tomorrow was Mahalaya — the day when Goddess Durga would begin her journey down to earth. The dhak drums had already started in the distance, their deep boom-boom-boom rolling through the evening air like a heartbeat.\n\n\"Ma, can I stay up to watch the pandal lights come on?\" she asked, her dark braids swinging as she turned.\n\nHer mother smiled and tucked a marigold behind Ananya's ear. \"Sleep first, my little firefly. The Goddess will still be here when you wake.\"\n\nBut Ananya couldn't sleep. From beneath her blanket she could see a single flickering diya on the windowsill — the first flame of the season. It danced and swayed as if it were alive, telling secrets only the wind could understand.",
-        "text_regional": "অনন্যা ঠান্ডা জানলার কাচে নাক ঠেকিয়ে দেখছিল পাড়াটা সোনালি আলোয় ভরে উঠছে। কাল মহালয়া — সেদিন দেবী দুর্গা মাটিতে নামতে শুরু করবেন। দূর থেকে ঢাকের শব্দ ভেসে আসছে, তার গমগম আওয়াজ সন্ধ্যার হাওয়ায় একটা হৃদস্পন্দনের মতো ছড়িয়ে পড়ছে।\n\n\"মা, পান্ডালের আলো জ্বলা দেখতে জেগে থাকতে পারব?\" সে জিজ্ঞেস করল, ঘুরতে গিয়ে তার কালো বেণি দুলে উঠল।\n\nমা হেসে অনন্যার কানের পেছনে একটা গাঁদাফুল গুঁজে দিলেন। \"আগে ঘুমাও, আমার জোনাকি। ভোরে উঠলেও মা দুর্গা এখানেই থাকবেন।\"\n\nকিন্তু অনন্যার ঘুম এলো না। কম্বলের নিচ থেকে সে জানলার ধারে রাখা একটা একাকী দীপের শিখা দেখতে পাচ্ছিল — এই মৌসুমের প্রথম শিখা। সেটা যেন জীবন্ত হয়ে নাচছিল, বাতাস যেন তাকে একটা গোপন কথা বলছিল।",
-        "illustration_desc": "Ananya in a red and white salwar looking through a glowing window, a single diya flame reflected in her wide eyes"
+        "chapter_number": 1,
+        "title": "The Night Before the Puja",
+        "english_text": "Ananya pressed her nose against the cool window glass, watching the neighbourhood fill with golden light. Tomorrow was Mahalaya — the day when Goddess Durga would begin her journey down to earth. The dhak drums had already started in the distance, their deep boom-boom-boom rolling through the evening air like a heartbeat.\n\n\"Ma, can I stay up to watch the pandal lights come on?\" she asked, her dark braids swinging as she turned.\n\nHer mother smiled and tucked a marigold behind Ananya's ear. \"Sleep first, my little firefly. The Goddess will still be here when you wake.\"\n\nBut Ananya couldn't sleep. From beneath her blanket she could see a single flickering diya on the windowsill — the first flame of the season. It danced and swayed as if it were alive, telling secrets only the wind could understand.",
+        "regional_text": "অনন্যা ঠান্ডা জানলার কাচে নাক ঠেকিয়ে দেখছিল পাড়াটা সোনালি আলোয় ভরে উঠছে। কাল মহালয়া — সেদিন দেবী দুর্গা মাটিতে নামতে শুরু করবেন। দূর থেকে ঢাকের শব্দ ভেসে আসছে, তার গমগম আওয়াজ সন্ধ্যার হাওয়ায় একটা হৃদস্পন্দনের মতো ছড়িয়ে পড়ছে।\n\n\"মা, পান্ডালের আলো জ্বলা দেখতে জেগে থাকতে পারব?\" সে জিজ্ঞেস করল, ঘুরতে গিয়ে তার কালো বেণি দুলে উঠল।\n\nমা হেসে অনন্যার কানের পেছনে একটা গাঁদাফুল গুঁজে দিলেন। \"আগে ঘুমাও, আমার জোনাকি। ভোরে উঠলেও মা দুর্গা এখানেই থাকবেন।\"\n\nকিন্তু অনন্যার ঘুম এলো না। কম্বলের নিচ থেকে সে জানলার ধারে রাখা একটা একাকী দীপের শিখা দেখতে পাচ্ছিল — এই মৌসুমের প্রথম শিখা। সেটা যেন জীবন্ত হয়ে নাচছিল, বাতাস যেন তাকে একটা গোপন কথা বলছিল।",
+        "scene_description": "Ananya in a red and white salwar looking through a glowing window, a single diya flame reflected in her wide eyes"
       },
       {
-        "number": 2,
-        "title_en": "The Flame Speaks",
-        "title_regional": "শিখার কথা",
-        "text_en": "Deep in the night, the diya flame grew tall — taller than any flame should — until it shaped itself into something small and golden: a tiny figure no bigger than Ananya's thumb, wearing a crown of marigolds.\n\n\"Do not be afraid,\" the figure said, its voice like the tinkling of temple bells. \"I am the Spirit of the Puja Flame. I have been sent to show you something important before the celebrations begin.\"\n\nAnanya sat up, her heart hammering. She was brave — hadn't she climbed the highest mango tree in the garden? But a talking flame was something else entirely.\n\n\"What do you want to show me?\" she whispered.\n\nThe tiny spirit pointed toward the window. \"Come. There is someone who is afraid tonight, and you are the only one who can help.\"",
-        "text_regional": "গভীর রাতে দীপের শিখা লম্বা হতে লাগল — যেকোনো স্বাভাবিক শিখার চেয়ে অনেক বেশি — যতক্ষণ না সে একটা ছোট্ট সোনালি আকৃতি নিল: অনন্যার বুড়ো আঙুলের চেয়েও ছোট একটা ক্ষুদ্র মূর্তি, মাথায় গাঁদাফুলের মুকুট।\n\n\"ভয় পেও না,\" সে বলল, তার গলা মন্দিরের ঘণ্টার মতো টুনটুন করছে। \"আমি পুজোর শিখার আত্মা। উৎসব শুরুর আগে তোমাকে একটা গুরুত্বপূর্ণ জিনিস দেখাতে পাঠানো হয়েছে।\"\n\nঅনন্যা উঠে বসল, তার হৃদয় দুরদুর করছে। সে সাহসী ছিল — বাগানের সবচেয়ে উঁচু আমগাছে কি সে-ই চড়েনি? কিন্তু কথা বলা একটা শিখা — এটা সম্পূর্ণ আলাদা ব্যাপার।\n\n\"তুমি আমাকে কী দেখাতে চাও?\" সে ফিসফিস করল।\n\nক্ষুদ্র আত্মাটি জানলার দিকে আঙুল তুলল। \"এসো। আজ রাতে কেউ একজন ভয় পাচ্ছে, আর শুধু তুমিই তাকে সাহায্য করতে পারো।\"",
-        "illustration_desc": "A tiny golden flame-sprite with a marigold crown floating above a diya, Ananya watching with wonder in a moonlit room"
+        "chapter_number": 2,
+        "title": "The Flame Speaks",
+        "english_text": "Deep in the night, the diya flame grew tall — taller than any flame should — until it shaped itself into something small and golden: a tiny figure no bigger than Ananya's thumb, wearing a crown of marigolds.\n\n\"Do not be afraid,\" the figure said, its voice like the tinkling of temple bells. \"I am the Spirit of the Puja Flame. I have been sent to show you something important before the celebrations begin.\"\n\nAnanya sat up, her heart hammering. She was brave — hadn't she climbed the highest mango tree in the garden? But a talking flame was something else entirely.\n\n\"What do you want to show me?\" she whispered.\n\nThe tiny spirit pointed toward the window. \"Come. There is someone who is afraid tonight, and you are the only one who can help.\"",
+        "regional_text": "গভীর রাতে দীপের শিখা লম্বা হতে লাগল — যেকোনো স্বাভাবিক শিখার চেয়ে অনেক বেশি — যতক্ষণ না সে একটা ছোট্ট সোনালি আকৃতি নিল: অনন্যার বুড়ো আঙুলের চেয়েও ছোট একটা ক্ষুদ্র মূর্তি, মাথায় গাঁদাফুলের মুকুট।\n\n\"ভয় পেও না,\" সে বলল, তার গলা মন্দিরের ঘণ্টার মতো টুনটুন করছে। \"আমি পুজোর শিখার আত্মা। উৎসব শুরুর আগে তোমাকে একটা গুরুত্বপূর্ণ জিনিস দেখাতে পাঠানো হয়েছে।\"\n\nঅনন্যা উঠে বসল, তার হৃদয় দুরদুর করছে। সে সাহসী ছিল — বাগানের সবচেয়ে উঁচু আমগাছে কি সে-ই চড়েনি? কিন্তু কথা বলা একটা শিখা — এটা সম্পূর্ণ আলাদা ব্যাপার।\n\n\"তুমি আমাকে কী দেখাতে চাও?\" সে ফিসফিস করল।\n\nক্ষুদ্র আত্মাটি জানলার দিকে আঙুল তুলল। \"এসো। আজ রাতে কেউ একজন ভয় পাচ্ছে, আর শুধু তুমিই তাকে সাহায্য করতে পারো।\"",
+        "scene_description": "A tiny golden flame-sprite with a marigold crown floating above a diya, Ananya watching with wonder in a moonlit room"
       },
       {
-        "number": 3,
-        "title_en": "The Lost Lantern",
-        "title_regional": "হারানো লণ্ঠন",
-        "text_en": "The spirit led Ananya through moonlit streets, past rows of half-finished pandals glowing with colored lights, until they reached the old banyan tree at the edge of the park. Huddled beneath its great roots was a small boy, no older than five, clutching a paper lantern that had gone dark.\n\n\"I lost my family during the Sandhi Puja crowd,\" the boy sniffled. \"My lantern went out and I cannot find the way home.\"\n\nAnanya felt a warmth bloom in her chest. She knelt beside him. \"My name is Ananya. What is yours?\"\n\n\"Rohan,\" he said in a tiny voice.\n\nAnanya took a breath, remembering what her grandmother always said: *A brave heart is the best diya of all.* She held up the flame sprite in her cupped palms and blew gently — and the little paper lantern blazed to life, casting a warm amber circle all around them.\n\nTogether, they walked toward the sound of the dhak drums, toward the light, toward home.",
-        "text_regional": "আত্মাটি অনন্যাকে চাঁদের আলোয় ভেজা রাস্তা দিয়ে নিয়ে চলল, রঙিন আলোয় ঝলমলে অর্ধসম্পূর্ণ পান্ডালের সারির পাশ দিয়ে, যতক্ষণ না তারা পার্কের কোণে পুরনো বটগাছটার কাছে পৌঁছাল। তার বিশাল শিকড়ের নিচে কুঁকড়ে বসে ছিল একটা ছোট্ট ছেলে, বয়স বড়জোর পাঁচ, হাতে একটা কাগজের লণ্ঠন যেটার আলো নিভে গেছে।\n\n\"সন্ধিপুজোর ভিড়ে আমি পরিবারের সাথে বিচ্ছিন্ন হয়ে গেছি,\" ছেলেটা হেঁচকি তুলে কাঁদল। \"আমার লণ্ঠন নিভে গেছে আর আমি বাড়ির পথ খুঁজে পাচ্ছি না।\"\n\nঅনন্যার বুকে একটা উষ্ণতা জেগে উঠল। সে তার পাশে হাঁটু গেড়ে বসল। \"আমার নাম অনন্যা। তোমার নাম কী?\"\n\n\"রোহান,\" সে ছোট্ট গলায় বলল।\n\nঅনন্যা একটা নিঃশ্বাস নিল, মনে পড়ল দাদিমা সবসময় যা বলতেন: *সাহসী হৃদয়ই সেরা দীপ।* সে শিখার আত্মাটিকে দুই হাতের আজলায় তুলে ধরে আলতো ফুঁ দিল — আর ছোট্ট কাগজের লণ্ঠনটা জ্বলে উঠল, তাদের চারপাশে একটা উষ্ণ আম্বর রঙের বৃত্ত তৈরি করল।\n\nএকসাথে তারা ঢাকের শব্দের দিকে হাঁটল, আলোর দিকে, বাড়ির দিকে।",
-        "illustration_desc": "Ananya kneeling beside a small boy under a moonlit banyan tree, her cupped hands glowing gold, a paper lantern lighting up between them"
+        "chapter_number": 3,
+        "title": "The Lost Lantern",
+        "english_text": "The spirit led Ananya through moonlit streets, past rows of half-finished pandals glowing with coloured lights, until they reached the old banyan tree at the edge of the park. Huddled beneath its great roots was a small boy, no older than five, clutching a paper lantern that had gone dark.\n\n\"I lost my family during the Sandhi Puja crowd,\" the boy sniffled. \"My lantern went out and I cannot find the way home.\"\n\nAnanya felt a warmth bloom in her chest. She knelt beside him. \"My name is Ananya. What is yours?\"\n\n\"Rohan,\" he said in a tiny voice.\n\nAnanya took a breath, remembering what her grandmother always said: A brave heart is the best diya of all. She held up the flame sprite in her cupped palms and blew gently — and the little paper lantern blazed to life, casting a warm amber circle all around them.\n\nTogether, they walked toward the sound of the dhak drums, toward the light, toward home.",
+        "regional_text": "আত্মাটি অনন্যাকে চাঁদের আলোয় ভেজা রাস্তা দিয়ে নিয়ে চলল, রঙিন আলোয় ঝলমলে অর্ধসম্পূর্ণ পান্ডালের সারির পাশ দিয়ে, যতক্ষণ না তারা পার্কের কোণে পুরনো বটগাছটার কাছে পৌঁছাল। তার বিশাল শিকড়ের নিচে কুঁকড়ে বসে ছিল একটা ছোট্ট ছেলে, বয়স বড়জোর পাঁচ, হাতে একটা কাগজের লণ্ঠন যেটার আলো নিভে গেছে।\n\n\"সন্ধিপুজোর ভিড়ে আমি পরিবারের সাথে বিচ্ছিন্ন হয়ে গেছি,\" ছেলেটা হেঁচকি তুলে কাঁদল। \"আমার লণ্ঠন নিভে গেছে আর আমি বাড়ির পথ খুঁজে পাচ্ছি না।\"\n\nঅনন্যার বুকে একটা উষ্ণতা জেগে উঠল। সে তার পাশে হাঁটু গেড়ে বসল। \"আমার নাম অনন্যা। তোমার নাম কী?\"\n\n\"রোহান,\" সে ছোট্ট গলায় বলল।\n\nঅনন্যা একটা নিঃশ্বাস নিল, মনে পড়ল দাদিমা সবসময় যা বলতেন: সাহসী হৃদয়ই সেরা দীপ। সে শিখার আত্মাটিকে দুই হাতের আজলায় তুলে ধরে আলতো ফুঁ দিল — আর ছোট্ট কাগজের লণ্ঠনটা জ্বলে উঠল, তাদের চারপাশে একটা উষ্ণ আম্বর রঙের বৃত্ত তৈরি করল।\n\nএকসাথে তারা ঢাকের শব্দের দিকে হাঁটল, আলোর দিকে, বাড়ির দিকে।",
+        "scene_description": "Ananya kneeling beside a small boy under a moonlit banyan tree, her cupped hands glowing gold, a paper lantern lighting up between them"
       },
       {
-        "number": 4,
-        "title_en": "The Goddess Smiles",
-        "title_regional": "দেবীর হাসি",
-        "text_en": "When Rohan's family spotted him rushing toward them with the glowing lantern, there were tears and laughter and the kind of hugs that squeeze all the worry right out of you. His mother pressed her palms together and bowed to Ananya with such gratitude that Ananya felt her own cheeks grow warm.\n\nOn the walk back home, the flame sprite floated beside her ear and whispered: \"Durga Ma did not send you out tonight to receive blessings. She sent you out to *be* a blessing.\"\n\nAnanya looked up at the enormous idol of Goddess Durga glowing inside the main pandal — ten arms wide, serene and powerful — and she felt sure, just for a moment, that the Goddess winked.\n\nShe ran the last stretch home, her red bangles jingling, her braid flying. She climbed back into bed and, as her eyes finally closed, the diya on the windowsill burned steadily — no longer dancing, but glowing like a little sun.\n\nShe had found what she was looking for all along. Not in the lights of the pandal, but in the heart of a stranger made into a friend.",
-        "text_regional": "রোহানের পরিবার যখন দেখল সে জ্বলন্ত লণ্ঠন নিয়ে তাদের দিকে দৌড়ে আসছে, তখন চোখের জল, হাসি আর এমন আলিঙ্গন হলো যা সব দুশ্চিন্তা নিংড়ে বের করে দেয়। তার মা অনন্যার দিকে কৃতজ্ঞতায় হাত জোড় করে মাথা নত করলেন এতটাই গভীরভাবে যে অনন্যার নিজের গাল লাল হয়ে গেল।\n\nবাড়ি ফেরার পথে শিখার আত্মাটি তার কানের কাছে ভেসে ফিসফিস করল: \"দুর্গা মা আজ রাতে তোমাকে আশীর্বাদ নিতে পাঠাননি। তিনি পাঠিয়েছেন যাতে তুমি নিজেই *একটা আশীর্বাদ হতে পারো।*\"\n\nঅনন্যা প্রধান পান্ডালের ভেতরে জ্বলজ্বল করতে থাকা দুর্গা মার বিশাল প্রতিমার দিকে তাকাল — দশ হাত প্রসারিত, শান্ত ও শক্তিশালী — আর সে নিশ্চিত অনুভব করল, মাত্র এক মুহূর্তের জন্য, দেবী তার দিকে চোখ মারলেন।\n\nসে বাড়ির পথে শেষ দৌড়টা দিল, লাল চুড়ি ঝমঝম করছে, বেণি উড়ছে। বিছানায় উঠে শুয়ে পড়ল এবং চোখ বুজতেই জানলার দীপটা স্থির জ্বলছিল — আর নাচছে না, কিন্তু একটা ছোট্ট সূর্যের মতো আলো দিচ্ছে।\n\nসে অবশেষে পেয়ে গেছে যা সে খুঁজছিল। পান্ডালের আলোয় নয়, একজন অপরিচিতের হৃদয়ে যে বন্ধু হয়ে গেছে।",
-        "illustration_desc": "Ananya smiling up at a majestic lit Durga Puja pandal, a small golden spark floating beside her — the flame sprite bidding farewell"
+        "chapter_number": 4,
+        "title": "The Goddess Smiles",
+        "english_text": "When Rohan's family spotted him rushing toward them with the glowing lantern, there were tears and laughter and the kind of hugs that squeeze all the worry right out of you. His mother pressed her palms together and bowed to Ananya with such gratitude that Ananya felt her own cheeks grow warm.\n\nOn the walk back home, the flame sprite floated beside her ear and whispered: \"Durga Ma did not send you out tonight to receive blessings. She sent you out to be a blessing.\"\n\nAnanya looked up at the enormous idol of Goddess Durga glowing inside the main pandal — ten arms wide, serene and powerful — and she felt sure, just for a moment, that the Goddess winked.\n\nShe ran the last stretch home, her red bangles jingling, her braid flying. She climbed back into bed and, as her eyes finally closed, the diya on the windowsill burned steadily — no longer dancing, but glowing like a little sun.\n\nShe had found what she was looking for all along. Not in the lights of the pandal, but in the heart of a stranger made into a friend.",
+        "regional_text": "রোহানের পরিবার যখন দেখল সে জ্বলন্ত লণ্ঠন নিয়ে তাদের দিকে দৌড়ে আসছে, তখন চোখের জল, হাসি আর এমন আলিঙ্গন হলো যা সব দুশ্চিন্তা নিংড়ে বের করে দেয়। তার মা অনন্যার দিকে কৃতজ্ঞতায় হাত জোড় করে মাথা নত করলেন এতটাই গভীরভাবে যে অনন্যার নিজের গাল লাল হয়ে গেল।\n\nবাড়ি ফেরার পথে শিখার আত্মাটি তার কানের কাছে ভেসে ফিসফিস করল: \"দুর্গা মা আজ রাতে তোমাকে আশীর্বাদ নিতে পাঠাননি। তিনি পাঠিয়েছেন যাতে তুমি নিজেই একটা আশীর্বাদ হতে পারো।\"\n\nঅনন্যা প্রধান পান্ডালের ভেতরে জ্বলজ্বল করতে থাকা দুর্গা মার বিশাল প্রতিমার দিকে তাকাল — দশ হাত প্রসারিত, শান্ত ও শক্তিশালী — আর সে নিশ্চিত অনুভব করল, মাত্র এক মুহূর্তের জন্য, দেবী তার দিকে চোখ মারলেন।\n\nসে বাড়ির পথে শেষ দৌড়টা দিল, লাল চুড়ি ঝমঝম করছে, বেণি উড়ছে। বিছানায় উঠে শুয়ে পড়ল এবং চোখ বুজতেই জানলার দীপটা স্থির জ্বলছিল — আর নাচছে না, কিন্তু একটা ছোট্ট সূর্যের মতো আলো দিচ্ছে।\n\nসে অবশেষে পেয়ে গেছে যা সে খুঁজছিল। পান্ডালের আলোয় নয়, একজন অপরিচিতের হৃদয়ে যে বন্ধু হয়ে গেছে।",
+        "scene_description": "Ananya smiling up at a majestic lit Durga Puja pandal, a small golden spark floating beside her — the flame sprite bidding farewell"
       }
     ]
   }
