@@ -1,0 +1,145 @@
+{
+  "regions": [
+    "West Bengal",
+    "Maharashtra",
+    "Tamil Nadu",
+    "Kerala",
+    "Andhra Pradesh",
+    "Telangana",
+    "Punjab",
+    "Rajasthan",
+    "Gujarat",
+    "Assam",
+    "Karnataka",
+    "Uttar Pradesh",
+    "Bihar",
+    "Odisha",
+    "Himachal Pradesh",
+    "Goa",
+    "Jharkhand",
+    "Manipur",
+    "Meghalaya",
+    "Tripura"
+  ],
+  "languages": [
+    "English",
+    "Bengali",
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Marathi",
+    "Punjabi",
+    "Assamese"
+  ],
+  "festivals": [
+    "Durga Puja",
+    "Diwali",
+    "Holi",
+    "Onam",
+    "Pongal",
+    "Bihu",
+    "Lohri",
+    "Ganesh Chaturthi",
+    "Eid",
+    "Christmas",
+    "Navratri",
+    "Baisakhi",
+    "Ugadi",
+    "Vishu",
+    "Chhath Puja"
+  ],
+  "morals": [
+    "Courage overcomes fear",
+    "Kindness is its own reward",
+    "Together we are stronger",
+    "Honesty is the best policy",
+    "Hard work always pays off",
+    "Respect your elders",
+    "Nature is to be cherished",
+    "Every living being deserves compassion",
+    "Sharing brings happiness",
+    "Knowledge is the greatest treasure"
+  ],
+  "festival_info": {
+    "Durga Puja": {
+      "region": "West Bengal",
+      "description": "The grand festival celebrating Goddess Durga's victory over evil, marked by elaborate pandals, dhak drumming, and communal celebrations.",
+      "emoji": "🪔",
+      "colors": ["#FF6B35", "#F7931E", "#FFD700", "#8B0000"]
+    },
+    "Diwali": {
+      "region": "Pan-India",
+      "description": "The Festival of Lights celebrating Lord Rama's return to Ayodhya, marked by oil lamps, fireworks, sweets, and family gatherings.",
+      "emoji": "🪔",
+      "colors": ["#FF8C00", "#FFD700", "#FF4500", "#8B4513"]
+    },
+    "Onam": {
+      "region": "Kerala",
+      "description": "The harvest festival of Kerala celebrating King Mahabali's return, marked by Pookalam flower carpets, Onam Sadhya feast, and boat races.",
+      "emoji": "🌸",
+      "colors": ["#228B22", "#FFD700", "#FF6347", "#FF8C00"]
+    },
+    "Bihu": {
+      "region": "Assam",
+      "description": "Assam's harvest festival celebrated with Bihu dance, music, and traditional foods, marking the Assamese New Year.",
+      "emoji": "🌾",
+      "colors": ["#228B22", "#FF6347", "#FFD700", "#8B4513"]
+    },
+    "Holi": {
+      "region": "Pan-India",
+      "description": "The festival of colors celebrating the arrival of spring, the triumph of good over evil, and the eternal love of Radha and Krishna.",
+      "emoji": "🌈",
+      "colors": ["#FF69B4", "#9400D3", "#00CED1", "#FF6347"]
+    },
+    "Pongal": {
+      "region": "Tamil Nadu",
+      "description": "A four-day harvest festival in Tamil Nadu thanking the Sun God for agricultural prosperity, featuring kolam art and pongal dish.",
+      "emoji": "🌞",
+      "colors": ["#FFD700", "#228B22", "#FF6347", "#8B4513"]
+    }
+  },
+  "mock_story": {
+    "title": "Ananya and the Dancing Flame",
+    "child_name": "Ananya",
+    "region": "West Bengal",
+    "festival": "Durga Puja",
+    "language": "Bengali",
+    "moral": "Courage and faith can light up even the darkest night",
+    "cover_description": "A young girl holding a golden diya in front of a glowing Durga Puja pandal",
+    "chapters": [
+      {
+        "number": 1,
+        "title_en": "The Night Before the Puja",
+        "title_regional": "পুজোর আগের রাত",
+        "text_en": "Ananya pressed her nose against the cool window glass, watching the neighborhood fill with golden light. Tomorrow was Mahalaya — the day when Goddess Durga would begin her journey down to earth. The dhak drums had already started in the distance, their deep boom-boom-boom rolling through the evening air like a heartbeat.\n\n\"Ma, can I stay up to watch the pandal lights come on?\" she asked, her dark braids swinging as she turned.\n\nHer mother smiled and tucked a marigold behind Ananya's ear. \"Sleep first, my little firefly. The Goddess will still be here when you wake.\"\n\nBut Ananya couldn't sleep. From beneath her blanket she could see a single flickering diya on the windowsill — the first flame of the season. It danced and swayed as if it were alive, telling secrets only the wind could understand.",
+        "text_regional": "অনন্যা ঠান্ডা জানলার কাচে নাক ঠেকিয়ে দেখছিল পাড়াটা সোনালি আলোয় ভরে উঠছে। কাল মহালয়া — সেদিন দেবী দুর্গা মাটিতে নামতে শুরু করবেন। দূর থেকে ঢাকের শব্দ ভেসে আসছে, তার গমগম আওয়াজ সন্ধ্যার হাওয়ায় একটা হৃদস্পন্দনের মতো ছড়িয়ে পড়ছে।\n\n\"মা, পান্ডালের আলো জ্বলা দেখতে জেগে থাকতে পারব?\" সে জিজ্ঞেস করল, ঘুরতে গিয়ে তার কালো বেণি দুলে উঠল।\n\nমা হেসে অনন্যার কানের পেছনে একটা গাঁদাফুল গুঁজে দিলেন। \"আগে ঘুমাও, আমার জোনাকি। ভোরে উঠলেও মা দুর্গা এখানেই থাকবেন।\"\n\nকিন্তু অনন্যার ঘুম এলো না। কম্বলের নিচ থেকে সে জানলার ধারে রাখা একটা একাকী দীপের শিখা দেখতে পাচ্ছিল — এই মৌসুমের প্রথম শিখা। সেটা যেন জীবন্ত হয়ে নাচছিল, বাতাস যেন তাকে একটা গোপন কথা বলছিল।",
+        "illustration_desc": "Ananya in a red and white salwar looking through a glowing window, a single diya flame reflected in her wide eyes"
+      },
+      {
+        "number": 2,
+        "title_en": "The Flame Speaks",
+        "title_regional": "শিখার কথা",
+        "text_en": "Deep in the night, the diya flame grew tall — taller than any flame should — until it shaped itself into something small and golden: a tiny figure no bigger than Ananya's thumb, wearing a crown of marigolds.\n\n\"Do not be afraid,\" the figure said, its voice like the tinkling of temple bells. \"I am the Spirit of the Puja Flame. I have been sent to show you something important before the celebrations begin.\"\n\nAnanya sat up, her heart hammering. She was brave — hadn't she climbed the highest mango tree in the garden? But a talking flame was something else entirely.\n\n\"What do you want to show me?\" she whispered.\n\nThe tiny spirit pointed toward the window. \"Come. There is someone who is afraid tonight, and you are the only one who can help.\"",
+        "text_regional": "গভীর রাতে দীপের শিখা লম্বা হতে লাগল — যেকোনো স্বাভাবিক শিখার চেয়ে অনেক বেশি — যতক্ষণ না সে একটা ছোট্ট সোনালি আকৃতি নিল: অনন্যার বুড়ো আঙুলের চেয়েও ছোট একটা ক্ষুদ্র মূর্তি, মাথায় গাঁদাফুলের মুকুট।\n\n\"ভয় পেও না,\" সে বলল, তার গলা মন্দিরের ঘণ্টার মতো টুনটুন করছে। \"আমি পুজোর শিখার আত্মা। উৎসব শুরুর আগে তোমাকে একটা গুরুত্বপূর্ণ জিনিস দেখাতে পাঠানো হয়েছে।\"\n\nঅনন্যা উঠে বসল, তার হৃদয় দুরদুর করছে। সে সাহসী ছিল — বাগানের সবচেয়ে উঁচু আমগাছে কি সে-ই চড়েনি? কিন্তু কথা বলা একটা শিখা — এটা সম্পূর্ণ আলাদা ব্যাপার।\n\n\"তুমি আমাকে কী দেখাতে চাও?\" সে ফিসফিস করল।\n\nক্ষুদ্র আত্মাটি জানলার দিকে আঙুল তুলল। \"এসো। আজ রাতে কেউ একজন ভয় পাচ্ছে, আর শুধু তুমিই তাকে সাহায্য করতে পারো।\"",
+        "illustration_desc": "A tiny golden flame-sprite with a marigold crown floating above a diya, Ananya watching with wonder in a moonlit room"
+      },
+      {
+        "number": 3,
+        "title_en": "The Lost Lantern",
+        "title_regional": "হারানো লণ্ঠন",
+        "text_en": "The spirit led Ananya through moonlit streets, past rows of half-finished pandals glowing with colored lights, until they reached the old banyan tree at the edge of the park. Huddled beneath its great roots was a small boy, no older than five, clutching a paper lantern that had gone dark.\n\n\"I lost my family during the Sandhi Puja crowd,\" the boy sniffled. \"My lantern went out and I cannot find the way home.\"\n\nAnanya felt a warmth bloom in her chest. She knelt beside him. \"My name is Ananya. What is yours?\"\n\n\"Rohan,\" he said in a tiny voice.\n\nAnanya took a breath, remembering what her grandmother always said: *A brave heart is the best diya of all.* She held up the flame sprite in her cupped palms and blew gently — and the little paper lantern blazed to life, casting a warm amber circle all around them.\n\nTogether, they walked toward the sound of the dhak drums, toward the light, toward home.",
+        "text_regional": "আত্মাটি অনন্যাকে চাঁদের আলোয় ভেজা রাস্তা দিয়ে নিয়ে চলল, রঙিন আলোয় ঝলমলে অর্ধসম্পূর্ণ পান্ডালের সারির পাশ দিয়ে, যতক্ষণ না তারা পার্কের কোণে পুরনো বটগাছটার কাছে পৌঁছাল। তার বিশাল শিকড়ের নিচে কুঁকড়ে বসে ছিল একটা ছোট্ট ছেলে, বয়স বড়জোর পাঁচ, হাতে একটা কাগজের লণ্ঠন যেটার আলো নিভে গেছে।\n\n\"সন্ধিপুজোর ভিড়ে আমি পরিবারের সাথে বিচ্ছিন্ন হয়ে গেছি,\" ছেলেটা হেঁচকি তুলে কাঁদল। \"আমার লণ্ঠন নিভে গেছে আর আমি বাড়ির পথ খুঁজে পাচ্ছি না।\"\n\nঅনন্যার বুকে একটা উষ্ণতা জেগে উঠল। সে তার পাশে হাঁটু গেড়ে বসল। \"আমার নাম অনন্যা। তোমার নাম কী?\"\n\n\"রোহান,\" সে ছোট্ট গলায় বলল।\n\nঅনন্যা একটা নিঃশ্বাস নিল, মনে পড়ল দাদিমা সবসময় যা বলতেন: *সাহসী হৃদয়ই সেরা দীপ।* সে শিখার আত্মাটিকে দুই হাতের আজলায় তুলে ধরে আলতো ফুঁ দিল — আর ছোট্ট কাগজের লণ্ঠনটা জ্বলে উঠল, তাদের চারপাশে একটা উষ্ণ আম্বর রঙের বৃত্ত তৈরি করল।\n\nএকসাথে তারা ঢাকের শব্দের দিকে হাঁটল, আলোর দিকে, বাড়ির দিকে।",
+        "illustration_desc": "Ananya kneeling beside a small boy under a moonlit banyan tree, her cupped hands glowing gold, a paper lantern lighting up between them"
+      },
+      {
+        "number": 4,
+        "title_en": "The Goddess Smiles",
+        "title_regional": "দেবীর হাসি",
+        "text_en": "When Rohan's family spotted him rushing toward them with the glowing lantern, there were tears and laughter and the kind of hugs that squeeze all the worry right out of you. His mother pressed her palms together and bowed to Ananya with such gratitude that Ananya felt her own cheeks grow warm.\n\nOn the walk back home, the flame sprite floated beside her ear and whispered: \"Durga Ma did not send you out tonight to receive blessings. She sent you out to *be* a blessing.\"\n\nAnanya looked up at the enormous idol of Goddess Durga glowing inside the main pandal — ten arms wide, serene and powerful — and she felt sure, just for a moment, that the Goddess winked.\n\nShe ran the last stretch home, her red bangles jingling, her braid flying. She climbed back into bed and, as her eyes finally closed, the diya on the windowsill burned steadily — no longer dancing, but glowing like a little sun.\n\nShe had found what she was looking for all along. Not in the lights of the pandal, but in the heart of a stranger made into a friend.",
+        "text_regional": "রোহানের পরিবার যখন দেখল সে জ্বলন্ত লণ্ঠন নিয়ে তাদের দিকে দৌড়ে আসছে, তখন চোখের জল, হাসি আর এমন আলিঙ্গন হলো যা সব দুশ্চিন্তা নিংড়ে বের করে দেয়। তার মা অনন্যার দিকে কৃতজ্ঞতায় হাত জোড় করে মাথা নত করলেন এতটাই গভীরভাবে যে অনন্যার নিজের গাল লাল হয়ে গেল।\n\nবাড়ি ফেরার পথে শিখার আত্মাটি তার কানের কাছে ভেসে ফিসফিস করল: \"দুর্গা মা আজ রাতে তোমাকে আশীর্বাদ নিতে পাঠাননি। তিনি পাঠিয়েছেন যাতে তুমি নিজেই *একটা আশীর্বাদ হতে পারো।*\"\n\nঅনন্যা প্রধান পান্ডালের ভেতরে জ্বলজ্বল করতে থাকা দুর্গা মার বিশাল প্রতিমার দিকে তাকাল — দশ হাত প্রসারিত, শান্ত ও শক্তিশালী — আর সে নিশ্চিত অনুভব করল, মাত্র এক মুহূর্তের জন্য, দেবী তার দিকে চোখ মারলেন।\n\nসে বাড়ির পথে শেষ দৌড়টা দিল, লাল চুড়ি ঝমঝম করছে, বেণি উড়ছে। বিছানায় উঠে শুয়ে পড়ল এবং চোখ বুজতেই জানলার দীপটা স্থির জ্বলছিল — আর নাচছে না, কিন্তু একটা ছোট্ট সূর্যের মতো আলো দিচ্ছে।\n\nসে অবশেষে পেয়ে গেছে যা সে খুঁজছিল। পান্ডালের আলোয় নয়, একজন অপরিচিতের হৃদয়ে যে বন্ধু হয়ে গেছে।",
+        "illustration_desc": "Ananya smiling up at a majestic lit Durga Puja pandal, a small golden spark floating beside her — the flame sprite bidding farewell"
+      }
+    ]
+  }
+}
